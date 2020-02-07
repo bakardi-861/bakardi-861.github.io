@@ -9,8 +9,9 @@
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
 body {
-  background: #f2f2f2
-cursor: url('http://www.gravatar.com/avatar/06ededb95f1c0b1f4f9d987e06d7d82b?s=32&d=identicon&r=PG'), pointer;
+  background-image:url('https://cdn.hipwallpaper.com/i/47/23/mzFjEB.jpg');
+background-repeat: no-repeat;
+    background-size: cover;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -178,7 +179,9 @@ p {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background-image:url('https://cdn.hipwallpaper.com/i/47/23/mzFjEB.jpg');
+background-repeat: no-repeat;
+    background-size: cover;
   padding-top: 190px;
 }
 
